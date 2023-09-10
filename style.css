@@ -1,0 +1,18 @@
+footer{
+    position: relative;
+    top: 150px;
+}
+#accordion-open{
+    position: relative;
+    top: 120px;
+}
+.heading h2{
+    position: relative;
+    top: 50px;
+}
+.x{
+    width: 320px;
+    align-items: center;
+    padding: 15px;
+    margin: 10px auto;
+}
